@@ -1,0 +1,21 @@
+{
+  "name": "@swoldanski/how-to-npm",
+  "version": "1.0.2",
+  "description": "how-to-npm nodeschool workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "swoldanski",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swoldanski/nodeschool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/swoldanski/nodeschool/issues"
+  },
+  "homepage": "https://github.com/swoldanski/nodeschool#readme"
+}
